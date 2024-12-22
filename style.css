@@ -52,6 +52,7 @@ nav {
 
 .logo {
     font-size: 3rem;
+    cursor: pointer;
 }
 
 nav ul li {
